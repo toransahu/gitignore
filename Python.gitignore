@@ -140,6 +140,7 @@ cython_debug/
 
 # Vim
 *.swp
+*.swo
 
 # PyCharm
 .idea/
