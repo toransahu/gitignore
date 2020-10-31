@@ -1,6 +1,7 @@
 # IDE
 .idea/
-*.swp 
+*.swp
+*.swo
 
 # Binaries for programs and plugins
 *.exe
